@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="mycss.css" type="text/css"?>
 <books>
-<heading>文觀書房</heading>
+<heading>推薦繪畫書籍</heading>
 <book>
-<title>日本之旅</title>
-<author>陳宇瑄</author>
-<publisher>聯大出版社</publisher>
-<price>$300</price>
+<title>像藝術家一樣思考</title>
+<author>貝蒂‧愛德華</author>
+<publisher>木馬文化</publisher>
+<price>繪畫學習理論</price>
 </book>
 <book>
-<title>東京之旅</title>
-<author>陳宇瑄</author>
-<publisher>聯大出版社</publisher>
-<price>$350</price>
+<title>插畫解體新書：動漫人物的身形修圖技法</title>
+<author> 弐藤潔</author>
+<publisher>楓書坊 </publisher>
+<price>人體解構╳動態構圖╳練習心法</price>
+</book>
+<book>
+<title>手的繪製訣竅：動畫導演・神志那弘志的人體部位插畫講座</title>
+<author>神志那弘志</author>
+<publisher>瑞昇</publisher>
+<price>習得用手巧妙詮釋角色風貌的技巧，將決定你的人物能否擁有躍出紙面的靈性與生動感</price>
+</book>
+<book>
+<title>專業動畫師講座 生動描繪人物全方位解析（附DVD）：只花了三年就考進吉卜力工作室的男人！連新海城也大讚本書！</title>
+<author>室井康雄</author>
+<publisher>瑞昇</publisher>
+<price>與Pixiv偶像團體「彩虹征服者」的根本凪合作，教你把三次元偶像畫成二次元角色的方法！</price>
 </book>
 </books>
